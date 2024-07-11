@@ -1,0 +1,7 @@
+D:\Buoi01_Debug\Megersort\Megersort\bin\Debug\Megersort.exe.config
+D:\Buoi01_Debug\Megersort\Megersort\bin\Debug\Megersort.exe
+D:\Buoi01_Debug\Megersort\Megersort\bin\Debug\Megersort.pdb
+D:\Buoi01_Debug\Megersort\Megersort\obj\Debug\Megersort.csproj.AssemblyReference.cache
+D:\Buoi01_Debug\Megersort\Megersort\obj\Debug\Megersort.csproj.CoreCompileInputs.cache
+D:\Buoi01_Debug\Megersort\Megersort\obj\Debug\Megersort.exe
+D:\Buoi01_Debug\Megersort\Megersort\obj\Debug\Megersort.pdb
